@@ -7,4 +7,4 @@ class Users extends Model {
     }
 }
 
-module.exports = Users
+module.exports = 
